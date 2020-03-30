@@ -15,3 +15,5 @@ Website - https://awteam.pw/bansys/
 Open menu(garry's mod) - `AIO_Ban`
 
 ![Alt text](https://i.imgur.com/sIxGCep.png?raw=true "Title")
+
+Thank you for attention!
