@@ -7,7 +7,7 @@
 
 AWTeam.Config = {
 	system = true, 						-- On/off system
-	ban = true,							-- On/off system
+	ban = true,							-- On/off ban
 	bansystem = "fadmin",				-- Ban system. Available: serverguard; ulx; fadmin
 	bantime = 0,						-- Time ban
 	delayupdate = 60					-- Delay update API php
