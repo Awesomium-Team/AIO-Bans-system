@@ -1,4 +1,4 @@
-# AIO-Bans-system
+# All in one - Ban system
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4188C3)
 
