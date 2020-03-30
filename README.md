@@ -1,5 +1,7 @@
 # AIO-Bans-system
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B4188C3)
+
 This database of players who violate or use third-party software.
 This ban system auto ban players of list ban system.
 
