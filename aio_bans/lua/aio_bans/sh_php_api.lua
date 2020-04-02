@@ -6,7 +6,7 @@
 --]]
 
 timer.Create( "AWTeam_RefreshTimer_ID"..math.Rand( 5, 999999 ), AWTeam.Config.delayupdate, 0, function()
-	http.Fetch("https://awteam.pw/bansys/api_ban.php", function(body, len, headers, code)
+	http.Fetch("https://awteam.pw/bansys/api.php?t=ban", function(body, len, headers, code)
 		AWTeam.BanList = util.JSONToTable(body)
 	end)
 end )
